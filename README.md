@@ -1,1 +1,1 @@
-# watee_detection
+# water_detection
